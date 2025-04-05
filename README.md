@@ -1,1 +1,1 @@
-# Image-Classification-Hack-Pack
+# Image-Classification-HackPack
